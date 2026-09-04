@@ -46,3 +46,7 @@ El notebook `E1_Calidad_Preparacion_Datos.ipynb` incluye:
 - validación final de calidad;
 - comparación entre el dataset original y el dataset tratado;
 - exportación del archivo `rendimiento_academico_limpio.csv`.
+
+
+### Link Presentación
+https://canva.link/atnm2nity1avi9m
